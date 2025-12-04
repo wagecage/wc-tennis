@@ -1,0 +1,37 @@
+--- PYTHON ---
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.ipynb_checkpoints/
+
+--- DATA (Exclude large/local data) ---
+
+tennis_data.db
+*.csv
+*.xlsx
+tennis_model.json
+tennis_model_god_mode.json
+players_live.json
+player_pressure_stats.json
+
+--- NODE.JS / NEXT.JS ---
+
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+*.log
+
+--- CONFIG / SECRETS (IMPORTANT) ---
+
+Prevent uploading API keys
+
+tennis_config.py
+.vscode/

@@ -1,0 +1,208 @@
+{
+    "firstToServe": 1,
+    "tournament": {
+        "name": "Angers, France",
+        "slug": "angers-france",
+        "category": {
+            "name": "WTA 125",
+            "slug": "wta-125",
+            "sport": {
+                "name": "Tennis",
+                "slug": "tennis",
+                "id": 5
+            },
+            "id": 871,
+            "country": {},
+            "flag": "wta-125",
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "\u0631\u0627\u0628\u0637\u0629 \u0645\u062d\u062a\u0631\u0641\u0627\u062a \u0627\u0644\u062a\u0646\u0633 125"
+                },
+                "shortNameTranslation": {}
+            }
+        },
+        "uniqueTournament": {
+            "name": "Angers, France",
+            "slug": "angers-france",
+            "category": {
+                "name": "WTA 125",
+                "slug": "wta-125",
+                "sport": {
+                    "name": "Tennis",
+                    "slug": "tennis",
+                    "id": 5
+                },
+                "id": 871,
+                "country": {},
+                "flag": "wta-125",
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0631\u0627\u0628\u0637\u0629 \u0645\u062d\u062a\u0631\u0641\u0627\u062a \u0627\u0644\u062a\u0646\u0633 125"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "userCount": 341,
+            "groundType": "Hardcourt indoor",
+            "tennisPoints": 125,
+            "hasPerformanceGraphFeature": false,
+            "id": 17284,
+            "country": {},
+            "hasEventPlayerStatistics": false,
+            "displayInverseHomeAwayTeams": false,
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "\u0623\u0646\u062c\u064a\u0647\u060c \u0641\u0631\u0646\u0633\u0627"
+                },
+                "shortNameTranslation": {}
+            }
+        },
+        "priority": 0,
+        "id": 170025
+    },
+    "season": {
+        "name": "WTA 125K Angers, France Women Singles 2025",
+        "year": "2025",
+        "editor": false,
+        "id": 74378
+    },
+    "roundInfo": {
+        "round": 6,
+        "name": "Round of 32",
+        "cupRoundType": 16
+    },
+    "customId": "fnvsPDQd",
+    "status": {
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
+    },
+    "winnerCode": 2,
+    "homeTeam": {
+        "name": "Teodora Kostovic",
+        "slug": "kostovic-teodora",
+        "shortName": "T. Kostovic",
+        "gender": "F",
+        "sport": {
+            "name": "Tennis",
+            "slug": "tennis",
+            "id": 5
+        },
+        "userCount": 949,
+        "playerTeamInfo": {
+            "id": 18371
+        },
+        "nameCode": "KOS",
+        "national": false,
+        "type": 1,
+        "id": 478940,
+        "country": {
+            "alpha2": "RS",
+            "alpha3": "SRB",
+            "name": "Serbia",
+            "slug": "serbia"
+        },
+        "subTeams": [],
+        "teamColors": {
+            "primary": "#374df5",
+            "secondary": "#374df5",
+            "text": "#ffffff"
+        },
+        "fieldTranslations": {
+            "nameTranslation": {
+                "ar": "\u062a\u064a\u0648\u062f\u0648\u0631\u0627 \u0643\u0648\u0633\u062a\u0648\u0641\u064a\u062a\u0634"
+            },
+            "shortNameTranslation": {
+                "ar": "\u062a. \u0643\u0648\u0633\u062a\u0648\u0641\u064a\u062a\u0634"
+            }
+        }
+    },
+    "awayTeam": {
+        "name": "Anna-Lena Friedsam",
+        "slug": "friedsam-anna-lena",
+        "shortName": "A. Friedsam",
+        "gender": "F",
+        "sport": {
+            "name": "Tennis",
+            "slug": "tennis",
+            "id": 5
+        },
+        "userCount": 1277,
+        "playerTeamInfo": {
+            "id": 1739
+        },
+        "nameCode": "FRI",
+        "national": false,
+        "type": 1,
+        "id": 50655,
+        "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany",
+            "slug": "germany"
+        },
+        "subTeams": [],
+        "teamColors": {
+            "primary": "#374df5",
+            "secondary": "#374df5",
+            "text": "#ffffff"
+        },
+        "fieldTranslations": {
+            "nameTranslation": {
+                "ar": "\u0622\u0646\u0627-\u0644\u064a\u0646\u0627 \u0641\u0631\u064a\u062f\u0633\u0627\u0645",
+                "ru": "\u0424\u0440\u0438\u0434\u0441\u0430\u043c, \u0410\u043d\u043d\u0430-\u041b\u0435\u043d\u0430",
+                "hi": "\u0905\u0928\u094d\u0928\u093e-\u0932\u0947\u0928\u093e \u092b\u094d\u0930\u093f\u0921\u0938\u093e\u092e",
+                "bn": "\u0986\u09a8\u09be-\u09b2\u09c7\u09a8\u09be \u09ab\u09cd\u09b0\u09bf\u09a1\u09b8\u09be\u09ae"
+            },
+            "shortNameTranslation": {
+                "ar": "\u0622. \u0641\u0631\u064a\u062f\u0633\u0627\u0645"
+            }
+        }
+    },
+    "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 3,
+        "period2": 6,
+        "period2TieBreak": 7,
+        "point": "7",
+        "normaltime": 0
+    },
+    "awayScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 6,
+        "period2": 7,
+        "period2TieBreak": 9,
+        "point": "8",
+        "normaltime": 2
+    },
+    "time": {
+        "currentPeriodStartTimestamp": 1764588031
+    },
+    "changes": {
+        "changes": [
+            "time.currentPeriodStart",
+            "time.period2"
+        ],
+        "changeTimestamp": 1764592519
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15164212,
+    "slug": "teodora-kostovic-anna-lena-friedsam",
+    "startTimestamp": 1764585000,
+    "periods": {
+        "point": "Game",
+        "current": "Match",
+        "period1": "1st set",
+        "period2": "2nd set",
+        "period3": "3rd set",
+        "period4": "4th set",
+        "period5": "5th set"
+    },
+    "finalResultOnly": false,
+    "feedLocked": false,
+    "groundType": "Hardcourt indoor",
+    "isEditor": false
+}
