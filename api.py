@@ -11,20 +11,16 @@ import tennis_config
 # --- CONFIGURATION ---
 app = FastAPI(title="Tennis Brain API", version="1.0.0")
 
-# --- CORS MIDDLEWARE ---
+# --- CORS MIDDLEWARE (UPDATED) ---
+# We are allowing ALL origins ("*") to fix the connection issue.
 app.add_middleware(
     CORSMiddleware,
-    # Allow both localhost (for testing) and your Vercel domain
-    allow_origins=[
-        "http://localhost:3000",
-        "https://wc-tennis.vercel.app",
-        "https://wc-tennis.vercel.app/", # Sometimes trailing slash matters
-        "*" # Fallback
-    ],
+    allow_origins=["*"],  # Allows all domains (Vercel, localhost, etc.)
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["*"],  # Allows GET, POST, OPTIONS, etc.
+    allow_headers=["*"],  # Allows all headers
 )
+
 # Connect to Cloud DB
 engine = create_engine(tennis_config.DB_URL)
 
